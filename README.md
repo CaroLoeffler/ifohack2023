@@ -22,7 +22,11 @@ Our partners **KfW Bank** (Kreditanstalt für Wiederaufbau) and **Deutsches Zent
 >Build a model which **predicts the categorical answers** of firms on various questions in the upcoming month. This model can be based on past answers and/or firm-specific information in the micro data of the survey (e.g., firm-size, region, sector). Which external sources can be used to predict firm-specific answers?
 
 2. **KfW challenge**
->tbd
+>This challenge is working with derived news data, some of the output data of KfW's newsscreening application "KARINA". We expect this challenge to be an interesting one to those who are just starting out in the area of text data analysis. It gives a good insight into the necessary steps which are required to gain useful information from text data in a commercial application. Ideally, you bring a solid statistical foundation and an interest in Natural Language Processing.
+>
+>Employ your knowledge of **exploratory data analysis** to create **visualizations**.
+>
+>Predict the **likelihood of an article being read** by a credit analyst **dealing with imbalanced, sparse data**.
 
 3. **DLR challenge**
 >This spatial ifoHack challenge aims to investigate the relationship between land prices and spatial factors that characterize living environments, in large and diverse cities in Germany, like Berlin, Bremen, Dresden, Frankfurt am Main and Köln. By exploring information extracted from satellite images and other relevant spatial datasets, we aim to guide participants into exploring non-conventional data sources, to answer relevant economic questions related to housing markets and spatial inequalities. Are land prices positively associated with a greater availability of spatial determinants of well-being, such as green and open spaces, or walkable and bicycle paths? Is proximity to amenities, educational, leisure or work opportunities a factor that drives higher land prices? Is there a spatial segregation effect in terms of land prices and specific population subgroups? These are only some of the questions we aim to explore together at the ifoHack. By getting to know the right spatial data and methods, formulating new ideas that fit your specific research interests will be only one short step away.
